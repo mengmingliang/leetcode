@@ -1,0 +1,36 @@
+class Solution {
+public:
+    int getSum(int n)//get the sum of the squares of its digits
+    {
+        int sum = 0;
+        while(n>0){
+            sum = sum + pow(n%10,2);
+            n = n/10;
+        }
+        return sum;
+    }
+    
+    bool myIshappy(int n,map<int,int> &m){
+        int sum = getSum(n);
+        map<int,int>::iterator iter;
+        
+        if(sum == 1){
+            return true;
+        }
+        
+        iter = m.find(sum);
+        if(iter != m.end()){
+            return false;
+        }else{
+            m.insert(pair<int,int>(sum,n));
+            //map_insert(&n,sum,n);
+            return myIshappy(sum,m);
+        }
+    }
+    
+    bool isHappy(int n) {
+        map<int,int>  mapS;
+        
+        return myIshappy(n,mapS);
+    }
+};
