@@ -1,0 +1,64 @@
+void reverse(char *start,char *end){
+    char c;
+    while(start<end){
+        c = *start;
+        *start = *end;
+        *end = c;
+        start++;
+        end--;
+    }
+}
+
+void trimSpace(char *s){
+    char *p;
+    char *r;
+    if(s == NULL){
+        return;
+    }
+    
+    p = s;
+    r = s;
+    
+    while((*p)!='\0'){
+        while((*p) ==' '){
+            p++;
+        }
+        
+        if(r!=s&&(*p)!='\0'){
+            *r = ' ';
+            r++;
+        }//add space between two words
+        
+        while((*p)!=' '&&(*p)!='\0'){
+            *r = *p;
+            r++;
+            p++;
+        }
+    }
+    
+    *r = '\0';
+}
+
+void reverseWords(char *s) {
+    char *start = s;
+    char *end = s;
+    
+    trimSpace(s);
+    reverse(s,s+strlen(s)-1);
+  
+    
+    while((*start)!='\0'){
+        while((*start)==' '){
+            start++;
+        }
+        
+        end = start;
+        while((*end)!=' '&&(*end)!='\0'){
+            end++;
+        }
+        
+        reverse(start,end-1);
+        //printf("reseult = %s\n\r",start);
+        start = end;
+    }
+}
