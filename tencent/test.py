@@ -4,7 +4,7 @@ from tencentcloud.common.exception.tencent_cloud_sdk_exception import TencentClo
 from tencentcloud.cvm.v20170312 import cvm_client, models
 try:
     # 实例化一个认证对象，入参需要传入腾讯云账户secretId，secretKey
-    cred = credential.Credential("secretId", "secretKey")
+    cred = credential.Credential("100005362162", "secretKey")
 
     # 实例化要请求产品(以cvm为例)的client对象
     client = cvm_client.CvmClient(cred, "ap-shanghai")
