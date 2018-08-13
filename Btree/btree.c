@@ -48,18 +48,21 @@
 #define MAX(a, b) ((a) > (b) ? (a) : (b))
 #define NODESIZE MAX(L1_CACHE_BYTES, 128)
 
+/*btree node*/
 struct btree_geo {
 	int keylen;
 	int no_pairs;
 	int no_longs;
 };
 
+/*32位*/
 struct btree_geo btree_geo32 = {
 	.keylen = 1,
 	.no_pairs = NODESIZE / sizeof(long) / 2,
 	.no_longs = NODESIZE / sizeof(long) / 2,
 };
 EXPORT_SYMBOL_GPL(btree_geo32);
+
 
 #define LONG_PER_U64 (64 / BITS_PER_LONG)
 struct btree_geo btree_geo64 = {
@@ -78,12 +81,14 @@ EXPORT_SYMBOL_GPL(btree_geo128);
 
 static struct kmem_cache *btree_cachep;
 
+/*alloc*/
 void *btree_alloc(gfp_t gfp_mask, void *pool_data)
 {
 	return kmem_cache_alloc(btree_cachep, gfp_mask);
 }
 EXPORT_SYMBOL_GPL(btree_alloc);
 
+/*free*/
 void btree_free(void *element, void *pool_data)
 {
 	kmem_cache_free(btree_cachep, element);
@@ -100,6 +105,7 @@ static unsigned long *btree_node_alloc(struct btree_head *head, gfp_t gfp)
 	return node;
 }
 
+/*compare array*/
 static int longcmp(const unsigned long *l1, const unsigned long *l2, size_t n)
 {
 	size_t i;
@@ -113,6 +119,7 @@ static int longcmp(const unsigned long *l1, const unsigned long *l2, size_t n)
 	return 0;
 }
 
+/*copy array*/
 static unsigned long *longcpy(unsigned long *dest, const unsigned long *src,
 		size_t n)
 {
@@ -123,6 +130,7 @@ static unsigned long *longcpy(unsigned long *dest, const unsigned long *src,
 	return dest;
 }
 
+/*set array elements*/
 static unsigned long *longset(unsigned long *s, unsigned long c, size_t n)
 {
 	size_t i;
@@ -132,6 +140,7 @@ static unsigned long *longset(unsigned long *s, unsigned long c, size_t n)
 	return s;
 }
 
+/*every key of the array dec*/
 static void dec_key(struct btree_geo *geo, unsigned long *key)
 {
 	unsigned long val;
@@ -145,6 +154,7 @@ static void dec_key(struct btree_geo *geo, unsigned long *key)
 	}
 }
 
+/**/
 static unsigned long *bkey(struct btree_geo *geo, unsigned long *node, int n)
 {
 	return &node[n * geo->keylen];
