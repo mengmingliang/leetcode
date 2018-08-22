@@ -1,0 +1,115 @@
+########< 中文工具箱 >#######
+#> 原始档案名称: C:\SecureCRT\CommonUI62U.dll
+#> 原始档案大小: 1311584
+#############################
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 1045
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Create Certificate
+创建证书
+#--------------------
+Common &name:
+公共名字(&N):
+#--------------------
+&Organization:
+组织(&O):
+#--------------------
+Organizational &unit:
+组织单位(&U):
+#--------------------
+&Country/region:
+国家/地区(&C):
+#--------------------
+&State/province:
+州/省(&S):
+#--------------------
+&Locality/city:
+位置/城市(&L):
+#--------------------
+&E-mail:
+&E-mail:
+#--------------------
+&Path:
+路径(&P):
+#--------------------
+...
+...
+#--------------------
+Certificate e&xpiration:
+证书过期(&X):
+#--------------------
+Explanatory text.
+注释文本.
+#--------------------
+&Generate
+生成(&G)
+#--------------------
+Cancel
+取消
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 5011
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+VPropertyTreeDialog
+VPropertyTreeDialog
+#--------------------
+OK
+确定
+#--------------------
+Cancel
+取消
+#--------------------
+&Category:
+分类(&C):
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 5017
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+OK
+确定
+#--------------------
+Cancel
+取消
+#--------------------
+Apply
+应用
+#--------------------
+Help
+帮助
+#--------------------
+&Category:
+分类(&C):
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 对话盒: 5018
+#=========================
+#> 字型: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+VPropertyTreeDialog
+VPropertyTreeDialog
+#--------------------
+OK
+确定
+#--------------------
+Cancel
+取消
+#--------------------
+Help
+帮助
+#--------------------
+&Category:
+分类(&C):
+#=========================
+#> 语系: "English (United States)" -> "Chinese (GB)"
+#> 字串表: 314
+#=========================
+#--------------------
+This dialog will help you generate a self-signed certificate for use by %1 when establishing SSL/TLS connections.  A Certificate Signing Request (CSR) file will be generated along with the self-signed certificate.  The CSR file can be sent to a certificate authority to be authenticated and signed.
+此对话框将帮助你生成一个自签名的证书，此证书使用在%1建立SSL/TLS连接时。证书签发请求(CSR)文件将会和自签名证书同时生成。CSR 文件可以发送给证书颁发机构进行授权和签名。

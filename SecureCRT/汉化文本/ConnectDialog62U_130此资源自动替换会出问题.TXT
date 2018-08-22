@@ -1,0 +1,432 @@
+########< ÖĞÎÄ¹¤¾ßÏä >#######
+#> Ô­Ê¼µµ°¸Ãû³Æ: E:\softs\SecureCRT\ConnectDialog62U.dll
+#> Ô­Ê¼µµ°¸´óĞ¡: 527200
+#############################
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> Ñ¡µ¥: 131
+#=========================
+#--------------------
+PopupSession
+PopupSession
+#--------------------
+Connect Termina&l\tAlt+T
+Á¬½ÓÖÕ¶Ë(&L)\tAlt+T
+#--------------------
+C&onnect File Transfer\tAlt+X
+Á¬½ÓÎÄ¼ş´«Êä(&O)\tAlt+X
+#--------------------
+Connect &Both
+Á¬½ÓÁ½Õß(&B)
+#--------------------
+Cu&t\tCtrl+X
+¼ôÇĞ(&T)\tCtrl+X
+#--------------------
+&Copy\tCtrl+C
+¸´ÖÆ(&C)\tCtrl+C
+#--------------------
+&Paste\tCtrl+V
+Õ³Ìù(&P)\tCtrl+V
+#--------------------
+&Find...\tCtrl+F
+²éÕÒ(&F)...\tCtrl+F
+#--------------------
+Find Ne&xt\tF3
+²éÕÒÏÂÒ»¸ö(&X)\tF3
+#--------------------
+&Delete\tDel
+É¾³ı(&D)\tDel
+#--------------------
+Rena&me\tAlt+M
+ÖØÃüÃû(&M)\tAlt+M
+#--------------------
+Cr&eate Desktop Shortcut\tAlt+E
+´´½¨×ÀÃæ¿ì½İ·½Ê½(&E)\tAlt+E
+#--------------------
+User &Arranged Tree\tAlt+A
+ÓÃ»§ÅÅÁĞÊ÷(&A)\tAlt+A
+#--------------------
+Sho&w Descriptions
+ÏÔÊ¾ÃèÊö(&W)
+#--------------------
+&Show Terminal Sessions
+ÏÔÊ¾ÖÕ¶Ë»á»°(&S)
+#--------------------
+&Show Transfer Sessions
+ÏÔÊ¾´«Êä»á»°(&S)
+#--------------------
+P&roperties\tAlt+Enter
+ÊôĞÔ(&R)\tAlt+Enter
+#--------------------
+PopupFolder
+PopupFolder
+#--------------------
+Connect in Ta&bs\tAlt+C
+ÔÚ±êÇ©ÖĞÁ¬½Ó(&B)\tAlt+C
+#--------------------
+&Quick Connect\tAlt+Q
+¿ìËÙÁ¬½Ó(&Q)\tAlt+Q
+#--------------------
+&New Session\tAlt+N
+ĞÂ½¨»á»°(&N)\tAlt+N
+#--------------------
+New F&older\tAlt+F
+ĞÂ½¨ÎÄ¼ş¼Ğ(&O)\tAlt+F
+#--------------------
+Cu&t\tCtrl+X
+¼ôÇĞ(&T)\tCtrl+X
+#--------------------
+&Copy\tCtrl+C
+¸´ÖÆ(&C)\tCtrl+C
+#--------------------
+&Paste\tCtrl+V
+Õ³Ìù(&P)\tCtrl+V
+#--------------------
+&Find...\tCtrl+F
+²éÕÒ(&F)...\tCtrl+F
+#--------------------
+Find Ne&xt\tF3
+²éÕÒÏÂÒ»¸ö(&X)\tF3
+#--------------------
+&Delete\tDel
+É¾³ı(&D)\tDel
+#--------------------
+Rena&me\tAlt+M
+ÖØÃüÃû(&M)\tAlt+M
+#--------------------
+Cr&eate Desktop Shortcut\tAlt+E
+´´½¨×ÀÃæ¿ì½İ·½Ê½(&E)\tAlt+E
+#--------------------
+User &Arranged Tree\tAlt+A
+ÓÃ»§ÅÅÁĞÊ÷(&A)\tAlt+A
+#--------------------
+Sho&w Descriptions
+ÏÔÊ¾ÃèÊö(&W)
+#--------------------
+&Show Terminal Sessions
+ÏÔÊ¾ÖÕ¶Ë»á»°(&S)
+#--------------------
+&Show Transfer Sessions
+ÏÔÊ¾´«Êä»á»°(&S)
+#--------------------
+P&roperties\tAlt+Enter
+ÊôĞÔ(&R)\tAlt+Enter
+#--------------------
+PopupMultiple
+PopupMultiple
+#--------------------
+&Connect in Tabs\tAlt+C
+ÔÚ±êÇ©ÖĞÁ¬½Ó(&C)\tAlt+C
+#--------------------
+&New Session\tAlt+N
+ĞÂ½¨»á»°(&N)\tAlt+N
+#--------------------
+New &Folder\tAlt+F
+ĞÂ½¨ÎÄ¼ş¼Ğ(&F)\tAlt+F
+#--------------------
+&Find...\tCtrl+F
+²éÕÒ(&F)...\tCtrl+F
+#--------------------
+Find Ne&xt\tF3
+²éÕÒÏÂÒ»¸ö(&X)\tF3
+#--------------------
+&Delete\tDel
+É¾³ı(&D)\tDel
+#--------------------
+Cr&eate Desktop Shortcut\tAlt+E
+´´½¨×ÀÃæ¿ì½İ·½Ê½(&E)\tAlt+E
+#--------------------
+User &Arranged Tree\tAlt+A
+ÓÃ»§ÅÅÁĞÊ÷(&A)\tAlt+A
+#--------------------
+Sho&w Descriptions
+ÏÔÊ¾ÃèÊö(&W)
+#--------------------
+P&roperties\tAlt+Enter
+ÊôĞÔ(&R)\tAlt+Enter
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 242
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Application Data Folder
+Ó¦ÓÃ³ÌĞòÊı¾İÎÄ¼ş¼Ğ
+#--------------------
+This is the first time that you have run this version of %1!s!%2!c!.  %1!s! needs to set a folder where configuration data can be stored.
+ÕâÊÇÄãµÚÒ»´ÎÔËĞĞ %1!s!¡£ %1!s! ĞèÒªÉèÖÃ¿ÉÒÔ´æ´¢ÅäÖÃÊı¾İµÄÎÄ¼ş¼Ğ¡£
+#--------------------
+Please specify a folder below.
+ÇëÔÚÏÂÃæÖ¸¶¨Ò»¸öÎÄ¼ş¼Ğ.
+#--------------------
+Pressing Cancel will exit the application without setting the configuration folder.
+°´¡°È¡Ïû¡±²»ÉèÖÃÅäÖÃÎÄ¼ş¼Ğ½«ÍË³öÓ¦ÓÃ³ÌĞò¡£
+#--------------------
+...
+...
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 255
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Shortcut Name
+¿ì½İ·½Ê½Ãû³Æ
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#--------------------
+Please enter a label for the shortcut:
+ÇëÎª¿ì½İ·½Ê½ÊäÈëÒ»¸ö±êÇ©£º
+#--------------------
+Application will create a shortcut on the\nDesktop to the following session:
+Ó¦ÓÃ³ÌĞò½«ÔÚ×ÀÃæÉÏ´´½¨Ò»¸öµ½ÒÔÏÂ»á»°µÄ¿ì½İ·½Ê½£º
+#--------------------
+Session Path
+»á»°Â·¾¶
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 5014
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Enter Hostname
+ÊäÈëÖ÷»úÃû
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#--------------------
+Please enter a hostname for this session :
+ÇëÎªÕâ¸ö»á»°ÊäÈëÒ»¸öÖ÷»úÃû£º
+#--------------------
+Session name
+»á»°Ãû³Æ
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11463
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+New Session Wizard
+ĞÂ½¨»á»°Ïòµ¼
+#--------------------
+This wizard will help you create a new session for connecting to a remote server.
+´ËÏòµ¼½«°ïÄã½¨Á¢Ò»¸öÁ¬½Óµ½Ô¶³Ì·şÎñÆ÷µÄ»á»°¡£
+#--------------------
+What type of connection do you want to establish?
+ÄãÏ£Íû½¨Á¢ºÎÖÖÁ¬½Ó£¿
+#--------------------
+P&rotocol:
+Ğ­Òé(&R):
+#--------------------
+Do not use this &wizard when creating sessions
+´´½¨»á»°Ê±²»Ê¹ÓÃ±¾Ïòµ¼(&W)
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11464
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+New Session Wizard
+ĞÂ½¨»á»°Ïòµ¼
+#--------------------
+This wizard will help you create a new session for connecting to a remote server.
+´ËÏòµ¼½«°ïÄã½¨Á¢Ò»¸öÁ¬½Óµ½Ô¶³Ì·şÎñÆ÷µÄ»á»°¡£
+#--------------------
+What type of connection do you want to establish?
+ÄãÏ£Íû½¨Á¢ºÎÖÖÁ¬½Ó£¿
+#--------------------
+SecureCRT® protocol:
+SecureCRT(c)Ğ­Òé:
+#--------------------
+Do not use this &wizard when creating sessions
+´´½¨»á»°Ê±²»Ê¹ÓÃ±¾Ïòµ¼(&W)
+#--------------------
+If you would like to use this session for terminal emulation, select a protocol below.  If you only want to use this session for file transfer, select 'None' below.
+Èç¹ûÄúÏ£ÍûÎªÖÕ¶Ë·ÂÕæÊ¹ÓÃÕâ¸ö»á»°£¬ÔÚÏÂÃæÑ¡ÔñÒ»¸öĞ­Òé¡£Èç¹ûÄúÖ»Ï£ÍûÎªÎÄ¼ş´«ÊäÊ¹ÓÃÕâ¸ö»á»°£¬ÔÚÏÂÃæÑ¡Ôñ¡°ÎŞ¡±
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11466
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+New Session Wizard
+ĞÂ½¨»á»°Ïòµ¼
+#--------------------
+If you would like to use this session for FTP or SFTP file transfers, select a protocol below.  If you only want to use this session for terminal emulation, select 'None' below.
+Èç¹ûÄãÏëÒªÔÚ´Ë»á»°Ê¹ÓÃ FTP »ò SFTP ÎÄ¼ş´«Êä£¬ÇëÔÚÏÂÃæÑ¡ÔñÒ»ÖÖĞ­Òé¡£Èç¹ûÄãÖ»ÏëÊ¹ÓÃ´Ë»á»°µ±ÖÕ¶Ë·ÂÕæÆ÷£¬Ñ¡Ôñ'None'¡£
+#--------------------
+SecureFX® protocol:
+SecureFX(c)Ğ­Òé:
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11467
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+New Session Wizard
+ĞÂ½¨»á»°Ïòµ¼
+#--------------------
+Session &name:
+»á»°Ãû³Æ(&N):
+#--------------------
+&Description:
+ÃèÊö(&D):
+#--------------------
+The wizard is now ready to create the new session for you.
+Ïòµ¼ÒÑ×¼±¸ºÃÎªÄú´´½¨ĞÂ»á»°.
+#--------------------
+What name do you want to use to uniquely identify the new session?
+ÄúÏ£ÍûÊ¹ÓÃÊ²Ã´Ãû³ÆÀ´Î¨Ò»µØ±êÊ¶ĞÂ»á»°?
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11473
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Application
+Application
+#--------------------
+Continue
+¼ÌĞø
+#--------------------
+Cancel
+È¡Ïû
+#--------------------
+You have selected more than %1!d! sessions to open.
+ÄãÑ¡¶¨Òª´ò¿ªµÄ»á»°¶àÓÚ %1!d! ¸ö.
+#--------------------
+Do not display this warning again
+²»ÔÙÏÔÊ¾´Ë¾¯¸æ
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ¶Ô»°ºĞ: 11476
+#=========================
+#> ×ÖĞÍ: "MS Shell Dlg" 8 -> "MS Shell Dlg" 8
+#--------------------
+Find Session
+²éÕÒ»á»°
+#--------------------
+Fi&nd what:
+²éÕÒ:
+#--------------------
+Look at
+²éÕÒ·¶Î§
+#--------------------
+&Session name
+»á»°Ãû³Æ(&S)
+#--------------------
+&Hostname
+Ö÷»úÃû(&H)
+#--------------------
+&Description
+ÃèÊö(&D)
+#--------------------
+Folde&r name
+ÎÄ¼ş¼ĞÃû³Æ(&R)
+#--------------------
+Match &case
+Æ¥Åä´óĞ¡Ğ´(&C)
+#--------------------
+OK
+È·¶¨
+#--------------------
+Cancel
+È¡Ïû
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ×Ö´®±í: 126
+#=========================
+#--------------------
+Connect
+Á¬½Ó
+#--------------------
+Quick Connect
+¿ìËÙÁ¬½Ó
+#--------------------
+Properties
+ÊôĞÔ
+#--------------------
+Delete
+É¾³ı
+#--------------------
+New Folder
+ĞÂ½¨ÎÄ¼ş¼Ğ
+#--------------------
+New Session
+ĞÂ½¨»á»°
+#--------------------
+Create Shortcut
+´´½¨¿ì½İ·½Ê½
+#--------------------
+Help
+°ïÖú
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ×Ö´®±í: 132
+#=========================
+#--------------------
+Create a new session.\nNew Session
+´´½¨Ò»¸öĞÂ»á»°.\nĞÂ½¨»á»°
+#--------------------
+Edit the properties of the selected session.\nProperties
+±à¼­Ñ¡¶¨»á»°µÄÊôĞÔ.\nÊôĞÔ
+#--------------------
+Cut the selected session or folder\nCut
+¼ôÇĞÑ¡¶¨µÄ»á»°»òÎÄ¼ş¼Ğ\n¼ôÇĞ
+#--------------------
+Copy the selected session or folder.\nCopy
+¸´ÖÆÑ¡¶¨µÄ»á»°»òÎÄ¼ş¼Ğ\n¸´ÖÆ
+#--------------------
+Paste session or folder\nPaste
+Õ³Ìù»á»°»òÎÄ¼ş¼Ğ\nÕ³Ìù
+#--------------------
+Delete the selected session or folder.\nDelete
+É¾³ıÑ¡¶¨µÄ»á»°»òÎÄ¼ş¼Ğ\nÉ¾³ı
+#--------------------
+Create a new folder.\nNew Folder
+´´½¨Ò»¸öĞÂÎÄ¼ş¼Ğ\nĞÂ½¨ÎÄ¼ş¼Ğ
+#--------------------
+Create a shortcut for the selected session.\nCreate Shortcut
+ÎªÑ¡¶¨µÄ»á»°´´½¨Ò»¸ö¿ì½İ·½Ê½.\n´´½¨¿ì½İ·½Ê½
+#--------------------
+Sort folders and sessions in a user defined order
+ÒÔÒ»¸öÓÃ»§×Ô¶¨ÒåµÄË³ĞòÅÅĞòÎÄ¼ş¼ĞºÍ»á»°
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ×Ö´®±í: 188
+#=========================
+#--------------------
+Sort folders and sessions alphabetically
+°´×ÖÄ¸Ë³ĞòÅÅĞòÎÄ¼ş¼ĞºÍ»á»°
+#=========================
+#> ÓïÏµ: "English (United States)" -> "Chinese (GB)"
+#> ×Ö´®±í: 2049
+#=========================
+#--------------------
+Display tooltips for session items\nShow Descriptions
+ÏÔÊ¾»á»°ÏîÄ¿µÄ¹¤¾ßÌáÊ¾\nÏÔÊ¾ÃèÊö
+#--------------------
+Open the session in SecureCRT\nConnect Terminal
+ÔÚ SecureCRT ÖĞ´ò¿ª»á»°\nÁ¬½ÓÖÕ¶Ë
+#--------------------
+Open the session in SecureFX\nConnect File Transfer
+ÔÚ SecureFX ÖĞ´ò¿ª»á»°\nÁ¬½ÓÎÄ¼ş´«ÊäÆ÷
+#--------------------
+Open the session in both SecureCRT and SecureFX\nConnect Both
+ÔÚ SecureCRTºÍSecureFX ÖĞ´ò¿ª»á»°\nÁ¬½ÓÁ½Õß
+#--------------------
+Are you sure you want to leave the Migration Wizard?
+È·¶¨Àë¿ªÇ¨ÒÆÏòµ¼£¿
