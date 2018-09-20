@@ -1,6 +1,14 @@
 #include <stdio.h>
 #include <string.h>
 
+void counter( unsigned *hi, unsigned *lo )
+{
+asm("rdtsc; movl %%edx,%0; movl %%eax, %1"
+        : "=r" (*hi), "=r" (*lo)
+        :
+        : "%edx", "%eax");
+}
+
 void main(){
     char buffer1[1024] = {0};
     char buffer2[1518] = {0};
