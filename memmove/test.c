@@ -24,6 +24,6 @@ void main(){
     
     for(i = 0;i < 10000; ++i){
         memmove(buffer1+24,buffer1,1000);
-        memmove(buffer2+18,buffer2,1500)
+        memmove(buffer2+18,buffer2,1500);
     }
 }
